@@ -1,0 +1,16 @@
+Domain Name Look Up
+openai.com
+   Ip address - 104.18.33.45
+   Geolocation - San Jose, California, United States
+2. georgecollege.ca
+ Ip address - 141.193.213.31
+ Geolocation - Austin, Texas, United States
+3. linkedin.com
+Ip address - 150.171.22.12
+Geolocation - Redmond, Washington, United States
+4. clio.com
+Ip address - 35.247.60.15
+Geolocation - The Dalles, Oregon, United States
+5. citi.com
+Ip address - 104.96.178.165
+Geolocation - Sydney, New South Wales, Australia	

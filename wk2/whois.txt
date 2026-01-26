@@ -1,0 +1,108 @@
+IP Address Look Up
+
+1. Name
+GOOGLE.COM
+Registry Domain ID
+2138514_DOMAIN_COM-VRSN
+Registered On
+1997-09-15T04:00:00Z
+Expires On
+2028-09-14T04:00:00Z
+Updated On
+2019-09-09T15:39:04Z
+Domain Status
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers
+NS1.GOOGLE.COM
+NS2.GOOGLE.COM
+NS3.GOOGLE.COM
+NS4.GOOGLE.COM
+
+2. Name
+FACEBOOK.COM
+Registry Domain ID
+2320948_DOMAIN_COM-VRSN
+Registered On
+1997-03-29T05:00:00Z
+Expires On
+2034-03-30T04:00:00Z
+Updated On
+2025-04-23T19:08:37Z
+Domain Status
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers
+A.NS.FACEBOOK.COM
+B.NS.FACEBOOK.COM
+C.NS.FACEBOOK.COM
+D.NS.FACEBOOK.COM
+
+
+3. Name
+WHTSAPP.COM
+Registry Domain ID
+1621241306_DOMAIN_COM-VRSN
+Registered On
+2010-10-20T02:05:31Z
+Expires On
+2026-10-20T02:05:31Z
+Updated On
+2025-08-29T03:45:38Z
+Domain Status
+client transfer prohibited
+Name Servers
+NS3.ABOVEDOMAINS.COM
+NS4.ABOVEDOMAINS.COM
+
+4. Name
+SNAPCHAT.COM
+Registry Domain ID
+1704543145_DOMAIN_COM-VRSN
+Registered On
+2012-02-28T19:29:26Z
+Expires On
+2026-02-28T19:29:26Z
+Updated On
+2018-03-28T20:34:03Z
+Domain Status
+client delete prohibited
+client transfer prohibited
+client update prohibited
+server delete prohibited
+server transfer prohibited
+server update prohibited
+Name Servers
+NS-1468.AWSDNS-55.ORG
+NS-1892.AWSDNS-44.CO.UK
+NS-220.AWSDNS-27.COM
+NS-530.AWSDNS-02.NET
+
+
+5. Name
+TIKTOK.COM
+Registry Domain ID
+1046418_DOMAIN_COM-VRSN
+Registered On
+1996-07-21T04:00:00Z
+Expires On
+2026-07-20T04:00:00Z
+Updated On
+2025-05-13T03:58:49Z
+Domain Status
+client transfer prohibited
+Name Servers
+A1-97.AKAM.NET
+A12-66.AKAM.NET
+A13-67.AKAM.NET
+A18-64.AKAM.NET
+A6-65.AKAM.NET
+A9-66.AKAM.NET

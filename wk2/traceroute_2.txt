@@ -1,0 +1,13 @@
+➜  ~ traceroute 159.203.22.159                                        
+
+traceroute to 159.203.22.159 (159.203.22.159), 64 hops max, 40 byte packets
+ 1  10.0.0.1 (10.0.0.1)  13.015 ms  3.049 ms  2.895 ms
+ 2  pool-99-234-212-1.cpe.net.cable.rogers.com (99.234.212.1)  15.889 ms  14.599 ms  15.743 ms
+ 3  8081-dgw01.hnsn.rmgt.net.rogers.com (69.63.254.121)  13.884 ms  15.867 ms  14.025 ms
+ 4  209.148.235.57 (209.148.235.57)  16.703 ms  16.777 ms  16.759 ms
+ 5  * * 69.63.248.69 (69.63.248.69)  21.591 ms
+ 6  digitalocean-tor1-edge2.ip4.torontointernetxchange.net (206.108.35.15)  41.668 ms  26.170 ms  34.443 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  *

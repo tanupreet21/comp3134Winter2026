@@ -1,0 +1,46 @@
+To use Nmap to scan 1000 TCP ports, type the following command. Use various host names  root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 159.203.22.159
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-26 19:04 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (159.203.22.159)
+Host is up (0.0000060s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds   To scan a single Port
+ root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 22 159.203.22.159
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-26 19:06 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (159.203.22.159)
+Host is up (0.000081s latency).
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds  To scan a range of ports
+ root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 22-26 22 159.203.22.159
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-26 19:07 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (159.203.22.159)
+Host is up (0.000064s latency).
+
+PORT   STATE  SERVICE
+22/tcp open   ssh
+23/tcp closed telnet
+24/tcp closed priv-mail
+25/tcp open   smtp
+26/tcp closed rsftp
+
+Nmap done: 2 IP addresses (1 host up) scanned in 3.07 seconds  
+
+
+ To scan 100 most common ports (Fast  root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F 159.203.22.159
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-26 19:08 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (159.203.22.159)
+Host is up (0.0000070s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds
