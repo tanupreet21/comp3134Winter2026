@@ -1,0 +1,2 @@
+HTML comments are visible in browser - removed those.
+PHP comments are hidden, so used those instead

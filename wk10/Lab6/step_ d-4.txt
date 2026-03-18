@@ -1,0 +1,4 @@
+What you see on the browser (the issue)
+The browser displays a list of directories returned by scandir(). This means the application is allowing user input to access and list server directories without proper validation.
+What sensitive information is given by this page
+The output reveals the server’s directory structure (e.g., log, tmp, www, mail, etc.). This is sensitive because it gives attackers insight into the system layout, which can be used to locate important files or plan further attacks like directory traversal.

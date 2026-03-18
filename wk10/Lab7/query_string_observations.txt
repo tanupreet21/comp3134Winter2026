@@ -1,0 +1,4 @@
+When a valid word is entered, the page loads definition for that word and also the url changes
+When invalid word is searched, it shows no result for that word and instead suggest to change the search word to a some valid word.
+When used script in form, Get this message - Sorry, you have been blocked. You are unable to access dictionary.com
+When entered script in url, Get this message - Sorry, you have been blocked. You are unable to access dictionary.com

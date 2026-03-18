@@ -1,0 +1,4 @@
+What you see on the browser (the issue)
+The browser displays an array of directory contents (., .., html), showing that the application is listing files from a directory based on user input without proper restrictions.
+What sensitive information is given by this page
+The output reveals part of the server’s directory structure (e.g., the html folder). This information can help an attacker understand how files are organized on the server and potentially locate sensitive resources.

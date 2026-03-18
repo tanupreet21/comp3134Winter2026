@@ -1,0 +1,11 @@
+strip_tags():
+- Removes HTML and script tags completely
+- Input becomes plain text
+
+htmlspecialchars():
+- Converts special characters into safe HTML entities
+- Example: < becomes &lt;
+- Safer because it preserves input while preventing execution
+
+Difference:
+strip_tags removes content, while htmlspecialchars encodes it safely.

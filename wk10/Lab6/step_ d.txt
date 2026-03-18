@@ -1,0 +1,5 @@
+What you see on the browser (the issue)
+The browser displays warning messages showing that scandir() failed to open the directory "hello" because it does not exist. This indicates improper handling of user input and lack of error handling.
+
+What sensitive information is given by this page
+The error message reveals the full server file path (/var/www/html/directory_traversal_part1.php) and the exact line number (line 7). This information can help attackers understand the server structure and identify potential vulnerabilities.

@@ -1,0 +1,2 @@
+Used basename() → prevents ../
+Used file_exists() → avoids invalid paths
